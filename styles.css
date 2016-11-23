@@ -1,0 +1,40 @@
+/* add your CSS here */
+body {
+  width: 312px;
+  border-style: solid;
+  border-color: #eee;
+  box-shadow: 7px 7px 7px #eee;
+}
+
+.border {
+  border-width: 1px;
+  border-color: #ddd;
+  border-style: solid;
+}
+
+.cat-name {
+  padding: 5px;
+}
+
+.cat-img {
+  width: 298px;
+  margin: 0 5px;
+}
+
+.favorite-fact {
+  font-style: italic;
+}
+
+.cat-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.cat-item {
+  font-weight: bold;
+}
+
+.description {
+  margin: 5px;
+  padding: 1px 8px;
+}
